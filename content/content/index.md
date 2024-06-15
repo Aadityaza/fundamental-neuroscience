@@ -1,0 +1,38 @@
+---
+title: My Notes
+---
+---
+
+- **Growth of Neuroimaging:**
+    - The number of studies using neuroimaging has grown exponentially since the early 1990s.
+    - The amount of data collected per study has also grown exponentially.
+    - Modern neuroimaging data analysis is a big data problem.
+- **Goal of the Note:**
+    - Provide an overview of neuroscience relevant to understanding, analyzing, collecting, and interpreting neuroimaging data.
+- **What is Neuroscience?**
+    - The multidisciplinary study of the biological basis of behavior.
+    - Includes disciplines like neuroanatomy, neurochemistry, neurophysiology, and neuropsychology.
+    - Has many branches including molecular, cognitive, clinical, computational, developmental, and cultural neuroscience.
+- **What is Neuroimaging?**
+    - A collection of methods to image the structural, functional, and chemical properties of the central nervous system.
+    - Used by many disciplines and branches of neuroscience.
+- **Note Topics:**
+    - Structural and functional organization of the brain.
+	    - [[Structural Anatomy of the Human Brain]]
+    - Terminology of brain organization.
+	    - [[Terminology of Brain Organization for MRI Research]]
+    - Brain networks and communication in the brain.
+	    - [[Neuronal Communication in the Brain]]
+	    - [[Functional Anatomy of the Brain]]
+	-  Cognition and cognitive domains.
+	    -  [[Organization of Cognitive Domains]]
+	    - [[Neuropsychological Assessment of Cognition]]
+    - Principles of magnetic resonance imaging.
+	    - [[Approaches of Neuroimaging]]
+	    - [[Basics of MRI]]
+	    - [[Basics of fMRI
+	    - [[Structural MRI Study]]
+	    - [[Functional MRI Studies]]
+	- Experimental design and neuroimaging studies.
+	    - [[Experimental Design]]
+	    - [[Functional Connectivity Studies]]
