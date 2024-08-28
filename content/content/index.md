@@ -30,7 +30,7 @@ title: My Notes
     - Principles of magnetic resonance imaging.
 	    - [[Approaches of Neuroimaging]]
 	    - [[Basics of MRI]]
-	    - [[Basics of fMRI
+	    - [[Basics of fMRI]]
 	    - [[Structural MRI Study]]
 	    - [[Functional MRI Studies]]
 	- Experimental design and neuroimaging studies.
